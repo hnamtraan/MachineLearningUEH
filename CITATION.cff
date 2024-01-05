@@ -1,13 +1,13 @@
 cff-version: 1.0.0
 message: If you use this software, please cite it using these details.
 authors:
+  - name: "Doãn P. H. My"
+  - name: "Nguyễn H. H. My"
   - name: "Nguyễn N. Nam"
   - name: "Trần P. H. Nam"
   - name: "Lý M. Nguyên"
-  - name: "Võ M. Nguyên"
-  - name: "Phan Đ. Nhân"
-title: "Phân tích và Trực quan hóa dữ liệu trong ngành Bảo hiểm y tế tại Hoa Kỳ"
+title: "Phân cụm quốc gia theo tình trạng kinh tế - xã hội bằng giải thuật Bang"
 version: 0.1.0
-doi: 10.5281/zenodo.10462341
+doi: 10.5281/zenodo.10463072
 date-released: 2024-01-05
-url: "https://doi.org/10.5281/zenodo.10462341"
+url: "https://doi.org/10.5281/zenodo.10463072"
